@@ -1,0 +1,129 @@
+<style>
+
+#all {
+	width: 100%;
+	height: 100%;
+}
+
+.logoimg {
+	width: 735px;
+	height: 332px;
+}
+
+.backpic {
+	float: left;
+	position: fixed;
+	height: 64px;
+	width:  64px;
+}
+
+
+
+@font-face { font-family: hack; src: url("hack.ttf"); }
+.hack {
+	font-family: hack;
+	font-size: 50;
+	color: white;
+}
+
+@font-face { font-family: hack; src: url("hack.ttf"); }
+.hackzane {
+	font-family: hack;
+	font-size: 50;
+	color: red;
+}
+
+@font-face { font-family: hack; src: url("hack.ttf"); }
+.hack2 {
+	font-family: hack;
+	font-size: 100;
+	color: white;
+}
+
+@font-face { font-family: hack; src: url("hack.ttf"); }
+.hack3 {
+	font-family: hack;
+	font-size: 100;
+	color: #ff3a00;
+}
+
+@font-face { font-family: hack; src: url("hack.ttf"); }
+.hack4 {
+	font-family: hack;
+	font-size: 60;
+	color: #ff3a00;
+}
+
+@font-face { font-family: hack; src: url("hack.ttf"); }
+.hack5 {
+	font-family: hack;
+	font-size: 150;
+	color: white;
+}
+
+@font-face { font-family: hack; src: url("hack.ttf"); }
+.hackname {
+	font-family: hack;
+	font-size: 60;
+	color: white;
+	background-color: black;
+}
+
+@font-face { font-family: bn; src: url("bn.otf"); }
+.class1 {
+	font-family: bn;
+	font-size: 14;
+	color: #0F0F0F;
+}
+
+@font-face { font-family: bn; src: url("bn.otf"); }
+.class2 {
+	font-family: bn;
+	font-size: 14;
+	color: #ff3a00;
+}
+
+@font-face { font-family: bn; src: url("bn.otf"); }
+.legalbn {
+	font-family: bn;
+	font-size: 30;
+	color: white;
+}
+
+@font-face { font-family: hack; src: url("hack.ttf"); }
+.legalhack {
+	font-family: hack;
+	font-size: 30;
+	color: white;
+}
+
+@font-face { font-family: bn; src: url("bn.otf"); }
+.legalfontname {
+	font-family: bn;
+	font-size: 30;
+	color: #ff3a00;
+}
+
+.ahack {
+	color: white;
+}
+
+.ahack2 {
+	color: #ff3a00;
+}
+
+.ahack3 {
+	color: red;
+}
+
+#foot {
+    position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: (51, 51, 51, 50);
+	color: white;
+	font-size: 12;
+}
+
+
+</style>
